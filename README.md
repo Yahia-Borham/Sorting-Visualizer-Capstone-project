@@ -1,11 +1,10 @@
 # Sorting-Visualizer
 Developed a front-end web application for applying and dynamically visualizing multiple sorting algorithms.
-
 ## Technologies Used
  React, React Components, React State, React Routing, Node, JSX, HTML5, CSS3
 ## Features
 - Using React, HTML5, and CSS3, I built the entire project, the home page and three interactive pages that clarify and visually
- demonstrate the step-by-step process of Merge Sort, Selection Sort, and Bubble Sort. 
+ demonstrate the step-by-step process of Merge Sort, Selection Sort, and Bubble Sort.
 
 ## Key Learnings
 This project shows the proven effectiveness of visual learning, which research indicates can reduce comprehension time for new material by ~20-30% compared to text-based methods, to significantly enhance students' understanding of these fundamental algorithms.
