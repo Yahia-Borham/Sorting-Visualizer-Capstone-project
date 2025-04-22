@@ -2,7 +2,7 @@
 Developed a front-end web application for applying and dynamically visualizing multiple sorting algorithms.
 
 ## Skills
-
+ React, React Components, React State, React Routing, Node, JSX, HTML5, CSS3
 ## Features
 - Using React, HTML5, and CSS3, I built the entire project, the home page and three interactive pages that clarify and visually
  demonstrate the step-by-step process of Merge Sort, Selection Sort, and Bubble Sort. 
