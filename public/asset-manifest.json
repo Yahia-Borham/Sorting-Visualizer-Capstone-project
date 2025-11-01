@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7791e0b3.css",
+    "main.js": "/static/js/main.9791590b.js",
+    "static/js/787.878a89ae.chunk.js": "/static/js/787.878a89ae.chunk.js",
+    "static/media/merge-sort.png": "/static/media/merge-sort.e2ea9f2ac355ac91d24c.png",
+    "static/media/gotopractice.png": "/static/media/gotopractice.fb66ff841022ff70bded.png",
+    "index.html": "/index.html",
+    "main.7791e0b3.css.map": "/static/css/main.7791e0b3.css.map",
+    "main.9791590b.js.map": "/static/js/main.9791590b.js.map",
+    "787.878a89ae.chunk.js.map": "/static/js/787.878a89ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7791e0b3.css",
+    "static/js/main.9791590b.js"
+  ]
+}

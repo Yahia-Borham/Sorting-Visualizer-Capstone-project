@@ -1,0 +1,846 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+
+
+} 
+.navigationbar{
+  position: relative;
+  top: 20px;
+
+  width: 1600px;
+  height: 150px;
+background-color:gray;
+
+}
+.homepage{
+background:linear-gradient( to bottom,  black , gray) ; 
+width:1600px;
+height:550px;
+  }
+
+
+
+
+  @keyframes slideInLeftS{
+
+from{
+
+transform: translateX(+900px);
+
+}
+
+to{
+
+  transform: translateX(0px);
+
+}
+  }
+
+  .animationS{
+
+    position: absolute;
+top: 250px;
+left: 350px;
+color:black;
+font-size: 80px;
+font-weight: bolder;
+animation: slideInLeftS 1s ease-out 0s 1  forwards ;
+
+  }
+
+  @keyframes slideInLeftO{
+
+    from{
+    
+    transform: translateX(+900px);
+    
+    }
+    
+    to{
+    
+      transform: translateX(45px);
+    
+    }
+      }
+      .animationO{
+    
+        position: absolute;
+    top: 250px;
+    left: 350px;
+    color:black;
+    font-size: 80px;
+    font-weight: bolder;
+    animation: slideInLeftO 1s ease-out 0s 1  forwards ;
+
+      }
+      @keyframes slideInLeftR{
+
+        from{
+        
+        transform: translateX(+900px);
+        
+        }
+        
+        to{
+        
+          transform: translateX(105px);
+        
+        }
+          }
+          .animationR{
+        
+            position: absolute;
+        top: 250px;
+        left: 350px;
+        color:black;
+        font-size: 80px;
+        font-weight: bolder;
+        animation: slideInLeftR 1s ease-out 0s 1  forwards ;
+        
+          }
+          @keyframes slideInLeftT{
+
+            from{
+            
+            transform: translateX(+900px);
+            
+            }
+            
+            to{
+            
+              transform: translateX(160px);
+            
+            }
+              }
+              .animationT{
+            
+                position: absolute;
+            top: 250px;
+            left: 350px;
+            color:black;
+            font-size: 80px;
+            font-weight: bolder;
+            animation: slideInLeftT 1s ease-out 0s 1  forwards ;
+            
+              }
+              @keyframes slideInLeftI{
+
+                from{
+                
+                transform: translateX(+900px);
+                
+                }
+                
+                to{
+                
+                  transform: translateX(210px);
+                
+                }
+                  }
+                  .animationI{
+                
+                    position: absolute;
+                top: 250px;
+                left: 350px;
+                color:black;
+                font-size: 80px;
+                font-weight: bolder;
+                animation: slideInLeftI 1s ease-out 0s 1  forwards ;
+          
+                  }
+                  @keyframes slideInLeftN{
+
+                    from{
+                    
+                    transform: translateX(+900px);
+                    
+                    }
+                    
+                    to{
+                    
+                      transform: translateX(240px);
+                    
+                    }
+                      }
+                      .animationN{
+                    
+                        position: absolute;
+                    top: 250px;
+                    left: 350px;
+                    color:black;
+                    font-size: 80px;
+                    font-weight: bolder;
+                    animation: slideInLeftN 1s ease-out 0s 1  forwards ;
+             
+                      }
+                      @keyframes slideInLeftG{
+
+                        from{
+                        
+                        transform: translateX(+900px);
+                        
+                        }
+                        
+                        to{
+                        
+                          transform: translateX(305px);
+                        
+                        }
+                          }
+                          .animationG{
+                        
+                            position: absolute;
+                        top: 250px;
+                        left: 350px;
+                        color:black;
+                        font-size: 80px;
+                        font-weight: bolder;
+                        animation: slideInLeftG 1s ease-out 0s 1  forwards ;
+                          }
+                          @keyframes slideInLeftV{
+
+                            from{
+                            
+                            transform: translateX(-300px);
+                            
+                            }
+                            
+                            to{
+                            
+                              transform: translateX(400px);
+                            
+                            }
+                              }
+                              .animationV{
+                            
+                                position: absolute;
+                            top: 250px;
+                            left: 350px;
+                            color:black;
+                            font-size: 80px;
+                            font-weight: bolder;
+                            animation: slideInLeftV 1s ease-out 0s 1  forwards ;
+                              }
+                              @keyframes slideInLeftII{
+
+                                from{
+                                
+                                transform: translateX(-300px);
+                                
+                                }
+                                
+                                to{
+                                
+                                  transform: translateX(455px);
+                                
+                                }
+                                  }
+                                  .animationII{
+                                
+                                    position: absolute;
+                                top: 250px;
+                                left: 350px;
+                                color:black;
+                                font-size: 80px;
+                                font-weight: bolder;
+                                animation: slideInLeftII 1s ease-out 0s 1  forwards ;
+                                  }
+                                  @keyframes slideInLeftSS{
+
+                                    from{
+                                    
+                                    transform: translateX(-300px);
+                                    
+                                    }
+                                    
+                                    to{
+                                    
+                                      transform: translateX(485px);
+                                    
+                                    }
+                                      }
+                                      .animationSS{
+                                    
+                                        position: absolute;
+                                    top: 250px;
+                                    left: 350px;
+                                    color:black;
+                                    font-size: 80px;
+                                    font-weight: bolder;
+                                    animation: slideInLeftSS 1s ease-out 0s 1  forwards ;
+                                      }
+                                      @keyframes slideInLeftU{
+
+                                        from{
+                                        
+                                        transform: translateX(-300px);
+                                        
+                                        }
+                                        
+                                        to{
+                                        
+                                          transform: translateX(530px);
+                                        
+                                        }
+                                          }
+                                          .animationU{
+                                        
+                                            position: absolute;
+                                        top: 250px;
+                                        left: 350px;
+                                        color:black;
+                                        font-size: 80px;
+                                        font-weight: bolder;
+                                        animation: slideInLeftU 1s ease-out 0s 1  forwards ;
+                                          }
+                                          @keyframes slideInLeftA{
+
+                                            from{
+                                            
+                                            transform: translateX(-300px);
+                                            
+                                            }
+                                            
+                                            to{
+                                            
+                                              transform: translateX(585px);
+                                            
+                                            }
+                                              }
+                                              .animationA{
+                                            
+                                                position: absolute;
+                                            top: 250px;
+                                            left: 350px;
+                                            color:black;
+                                            font-size: 80px;
+                                            font-weight: bolder;
+                                            animation: slideInLeftA 1s ease-out 0s 1  forwards ;
+                                              }
+                                              @keyframes slideInLeftL{
+
+                                                from{
+                                                
+                                                transform: translateX(-300px);
+                                                
+                                                }
+                                                
+                                                to{
+                                                
+                                                  transform: translateX(645px);
+                                                
+                                                }
+                                                  }
+                                                  .animationL{
+                                                
+                                                    position: absolute;
+                                                top: 250px;
+                                                left: 350px;
+                                                color:black;
+                                                font-size: 80px;
+                                                font-weight: bolder;
+                                                animation: slideInLeftL 1s ease-out 0s 1  forwards ;
+                                                  }
+                                                  @keyframes slideInLeftIII{
+
+                                                    from{
+                                                    
+                                                    transform: translateX(-300px);
+                                                    
+                                                    }
+                                                    
+                                                    to{
+                                                    
+                                                      transform: translateX(690px);
+                                                    
+                                                    }
+                                                      }
+                                                      .animationIII{
+                                                    
+                                                        position: absolute;
+                                                    top: 250px;
+                                                    left: 350px;
+                                                    color:black;
+                                                    font-size: 80px;
+                                                    font-weight: bolder;
+                                                    animation: slideInLeftIII 1s ease-out 0s 1  forwards ;
+                                                      }
+                                                      @keyframes slideInLeftZ{
+
+                                                        from{
+                                                        
+                                                        transform: translateX(-300px);
+                                                        
+                                                        }
+                                                        
+                                                        to{
+                                                        
+                                                          transform: translateX(720px);
+                                                        
+                                                        }
+                                                          }
+                                                          .animationZ{
+                                                        
+                                                            position: absolute;
+                                                        top: 250px;
+                                                        left: 350px;
+                                                        color:black;
+                                                        font-size: 80px;
+                                                        font-weight: bolder;
+                                                        animation: slideInLeftZ 1s ease-out 0s 1  forwards ;
+                                                          }
+                                                          @keyframes slideInLeftE{
+
+                                                            from{
+                                                            
+                                                            transform: translateX(-300px);
+                                                            
+                                                            }
+                                                            
+                                                            to{
+                                                            
+                                                              transform: translateX(770px);
+                                                            
+                                                            }
+                                                              }
+                                                              .animationE{
+                                                            
+                                                                position: absolute;
+                                                            top: 250px;
+                                                            left: 350px;
+                                                            color:black;
+                                                            font-size: 80px;
+                                                            font-weight: bolder;
+                                                            animation: slideInLeftE 1s ease-out 0s 1  forwards ;
+                                                              }
+                                                              @keyframes slideInLeftRR{
+
+                                                                from{
+                                                                
+                                                                transform: translateX(-300px);
+                                                                
+                                                                }
+                                                                
+                                                                to{
+                                                                
+                                                                  transform: translateX(815px);
+                                                                
+                                                                }
+                                                                  }
+                                                                  .animationRR{
+                                                                
+                                                                    position: absolute;
+                                                                top: 250px;
+                                                                left: 350px;
+                                                                color:black;
+                                                                font-size: 80px;
+                                                                font-weight: bolder;
+                                                                animation: slideInLeftRR 1s ease-out 0s 1  forwards ;
+                                                                  }
+  
+  .image1{
+position: relative;
+top: 40px;
+left: 1380px ;
+  }
+
+  @keyframes downtopsortingvisualizer{
+
+    from{
+
+      transform:translateY(50px);
+      opacity: 0;
+      }
+      to{
+      
+        transform:translateY(3px);
+        opacity: 1;
+      
+      }
+      
+      }
+.downtopsortingvisualizer{
+position: absolute;
+top: 48px;
+font-family: Noto Sans, sans-serif;
+font-weight: bold;
+font-size: 30px;
+transform: scaleY(1.5);
+color:azure;
+opacity: 0;
+animation: downtopsortingvisualizer 0.5s ease-out 1s 1  forwards;
+}
+
+.downtopsortingvisualizer:hover{
+ cursor: pointer;
+}
+
+.downtopsortingvisualizer.active{
+text-decoration: none ;
+color: black;
+}
+
+@keyframes downtopmerge{
+
+from{
+
+transform:translateY(50px);
+opacity: 0;
+}
+to{
+
+  transform:translateY(3px);
+  opacity: 1;
+
+}
+
+}
+.downtopmerge{
+position: absolute;
+left:500px ;
+
+bottom: 65px;
+font-family: Gill Sans, sans-serif;
+font-weight: bold;
+font-size: 30px;
+transform: scaleY(1);
+color:azure;
+opacity: 0;
+animation: downtopmerge 0.5s ease-out 1s 1  forwards;
+}
+.downtopmerge:hover{
+color:steelblue;
+cursor:pointer;
+}
+.downtopmerge.active{
+  text-decoration: none ;
+  color: black;
+  }
+
+@keyframes downtopselection{
+
+  from{
+  
+  transform:translateY(50px);
+  opacity: 0;
+  }
+  to{
+  
+    transform:translateY(3px);
+    opacity: 1;
+  
+  }
+  
+  }
+.downtopselection{
+  position: absolute;
+  left:800px ;
+  bottom: 65px;
+  font-family: Gill Sans, sans-serif;
+font-weight: bold;
+font-size: 30px;
+transform: scaleY(1);
+color:azure;
+opacity: 0;
+animation: downtopselection 0.5s ease-out 1s 1  forwards;
+}
+.downtopselection:hover{
+  color:aqua;
+  cursor:pointer;
+}
+.downtopselection.active{
+  text-decoration: none ;
+  color: black;
+  }
+
+@keyframes downtopbubble{
+
+  from{
+  
+  transform:translateY(50px);
+  opacity: 0;
+  }
+  to{
+  
+    transform:translateY(3px);
+    opacity: 1;
+  
+  }
+  
+  }
+.downtopbubble{
+  position: absolute;
+  left:1160px ;
+  bottom: 65px;
+  font-weight: bold;
+  font-size: 30px;
+  transform: scaleY(1);
+  color:azure;
+  opacity: 0;
+  animation: downtopbubble 0.5s ease-out 1s 1  forwards;
+}
+.downtopbubble:hover{
+  color:aquamarine;
+  cursor:pointer;
+}
+.downtopbubble.active{
+  text-decoration: none ;
+  color: black;
+  }
+
+
+
+.sortingpartmerge{
+  width: 1600px;
+  height: 800px;
+background-image:url(/src/merge-sort.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover ;
+}
+.sortingpartselection{
+  width: 1600px;
+  height: 800px;
+background-image:url(/src/selectionsort.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover ;
+}
+.sortingpartbubble{
+  width: 1600px;
+  height: 800px;
+background-image:url(/src/bubblesort.png);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+background-size: cover ;
+}
+
+.slider{
+width: 300px;
+height: 100px;
+position: relative;
+top: 200px;
+left: 1000px;
+}
+
+
+#slidervalue{
+  position: relative;
+  top: 80px;
+  left: 1000px;
+  font-size: 20px;
+  color:black;
+  font-size: Arial, sans-serif;
+}
+
+.rectanglecontainer{
+  position: relative;
+  left: 10px
+}
+
+.rectangle1{
+  
+max-height: 500px;
+margin-left: 5px;
+margin-right: 5px;
+margin-top: 60px;
+display: inline-block;
+background-color:steelblue;
+
+}
+.rectangle2{
+  
+  max-height: 500px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 60px;
+  display: inline-block;
+  background-color:aqua;
+  
+  }
+  .rectangle3{
+  
+    max-height: 500px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 60px;
+    display: inline-block;
+    background-color:aquamarine;
+    
+    }
+
+.buttonmerge{
+margin-left: 900px;
+margin-top: 70px;
+background: linear-gradient(steelblue , blue);
+}
+.buttonselection{
+  margin-left: 900px;
+  margin-top: 70px;
+  background: linear-gradient(aqua , blue);
+  }
+  .buttonmbubble{
+    margin-left: 900px;
+    margin-top: 70px;
+    background: linear-gradient(aquamarine , blue);
+
+    }
+
+.descriptionmerge{
+  position: relative;
+  bottom: 22px;
+  width: 1600px;
+  height: 1220px;
+background: linear-gradient(to bottom , steelblue , lightcyan);
+}
+.descriptionselection{
+  position: relative;
+  bottom: 22px;
+  width: 1600px;
+  height: 1220px;
+background: linear-gradient(to bottom , aqua , lightcyan);
+}
+.descriptionbubble{
+  position: relative;
+  bottom: 22px;
+  width: 1600px;
+  height: 1220px;
+background: linear-gradient(to bottom , aquamarine , lightcyan);
+}
+
+.Dtext{
+  font-style:  Helvetica;
+font-weight: normal;
+font-size: 20px;
+color:black;
+width: 800px;
+margin-left: 5px;
+}
+
+.head2merge{
+  position: relative;
+  left: 1000px;
+bottom: 300px ;
+font-size: 30px;
+}
+.head2selection{
+  position: relative;
+  left: 1000px;
+bottom: 250px ;
+font-size: 30px;
+}
+.head2bubble{
+  position: relative;
+  left: 1000px;
+bottom: 275px ;
+font-size: 30px;
+}
+
+.positiontable{
+  position: relative;
+  left: 900px;
+  bottom: 250px;
+  height: 200px;
+}
+
+.head3{
+  font-size: 30px;
+position: relative;
+bottom: 300px
+}
+
+#pseudocodemerge{
+  position: absolute;
+  bottom: 0px;
+  font-size: 15px;
+  font-family: Helvetica, sans-serif;
+  font-weight:bold;
+  color:black;
+  border-style: outset;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 5px;
+ padding: 5px;
+ background-color: honeydew;
+}
+#pseudocodemerge2{
+  position: absolute;
+  bottom: 550px;
+  left: 800px;
+  font-size: 15px;
+  font-family: Helvetica, sans-serif;
+  font-weight:bold;
+  color:black;
+  border-style: outset;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 5px;
+ padding: 5px;
+ background-color: honeydew;
+}
+#pseudocodeselection{
+  position: absolute;
+  bottom: 650px;
+  font-size: 15px;
+  font-family: Helvetica, sans-serif;
+  font-weight:bold;
+  color:black;
+  border-style: outset;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 5px;
+ padding: 5px;
+ background-color: honeydew;
+}
+#pseudocodebubble{
+  position: absolute;
+  bottom: 560px;
+  font-size: 15px;
+  font-family: Helvetica, sans-serif;
+  font-weight:bold;
+  color:black;
+  border-style: outset;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 5px;
+ padding: 5px;
+ background-color: honeydew;
+}
+.mergecodeborder{
+  position: relative;
+  bottom: 300px;
+  width: 200px;
+  height: 1000px;
+border-style: outset;
+border-width: 2px;
+border-color:darkorange;
+border-radius: 10px;
+background-color: black;
+
+
+
+
+}
+
+.other{
+  width: 1600px;
+  height: 200px;
+  background-color:gray;
+padding: 5px
+}
