@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Sorting-Visualizer-Capstone-project/static/css/main.1243b5e3.css",
+    "main.js": "/Sorting-Visualizer-Capstone-project/static/js/main.2913b939.js",
+    "static/js/453.b9b4a01c.chunk.js": "/Sorting-Visualizer-Capstone-project/static/js/453.b9b4a01c.chunk.js",
+    "static/media/bubblesort.png": "/Sorting-Visualizer-Capstone-project/static/media/bubblesort.1d6255ba1536e1d0da5b.png",
+    "static/media/selectionsort.png": "/Sorting-Visualizer-Capstone-project/static/media/selectionsort.7efaed013b73bd39afac.png",
+    "static/media/merge-sort.png": "/Sorting-Visualizer-Capstone-project/static/media/merge-sort.e2ea9f2ac355ac91d24c.png",
+    "index.html": "/Sorting-Visualizer-Capstone-project/index.html",
+    "main.1243b5e3.css.map": "/Sorting-Visualizer-Capstone-project/static/css/main.1243b5e3.css.map",
+    "main.2913b939.js.map": "/Sorting-Visualizer-Capstone-project/static/js/main.2913b939.js.map",
+    "453.b9b4a01c.chunk.js.map": "/Sorting-Visualizer-Capstone-project/static/js/453.b9b4a01c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1243b5e3.css",
+    "static/js/main.2913b939.js"
+  ]
+}
