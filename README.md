@@ -1,5 +1,5 @@
 # Sorting-Visualizer
-Developed a front-end web application for applying and dynamically visualizing multiple sorting algorithms.
+Developed a front-end web application for applying and dynamically visualizing multiple sorting algorithms. 
 ## Technologies Used
  React, React Components, React State, React Routing, Node, JSX, HTML5, CSS3 
 ## Features
